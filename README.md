@@ -1,9 +1,9 @@
-# Course XYZ - X Y Z
-Estrutura de pastas padrão para organização de disciplinas.
+# SI – SISTEMAS INTELIGENTES
+**Ementa:** Classes de problemas e características: P vs NP; domínios; multimodalidade; multiobjetivos; dinâmicos. Aspectos teóricos e práticos de Aprendizado de Máquina: representação do conhecimento; tipos de aprendizado; classes de tarefas; técnicas de aprendizado; métricas de desempenho. Aspectos teóricos e práticos no uso de heurísticas e meta-heurísticas: tipos de abordagens; algoritmos bio-inspirados; operadores locais e de vizinhança; algoritmos híbridos; análise de desempenho.
 
 ## Estrutura
 ```
-course_xyz/
+course_si/
 ├── 1_classes/
 ├── 2_materials/
 └── 3_assignments/
